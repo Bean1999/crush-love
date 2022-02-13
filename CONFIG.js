@@ -2,7 +2,7 @@ const CONFIGDATA = {
   titleHeader: "Bé có huông anh hônggg",
   descriptionHeader:
     "Nếu bé thoát ra và không trả lời thì có nghĩa là huông anh nhìu nhìuuu ",
-  buttonYes: "Huông nhắmm",
+  buttonYes: "Huông nhắmmm",
   buttonNo: "Hông! Đá cho 1 cái.",
   titleModar: "Cảm ơn em vì đã huông anhh",
   descriptionModar:
